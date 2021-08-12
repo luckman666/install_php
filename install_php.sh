@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 version="7.2.29"
 url="http://cn2.php.net/distributions/php-${version}.tar.bz2"
 
